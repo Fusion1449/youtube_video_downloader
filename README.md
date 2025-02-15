@@ -29,30 +29,25 @@ pip install yt-dlp customtkinter
 1. **Open the Application**:  
    Run the script `main.py` in your Python environment.
 
-   ![Main Window](![Captura de tela de 2025-02-15 03-16-26](https://github.com/user-attachments/assets/5dd91684-0c81-4793-84d1-bcfce5021da1)
-)
-   *Description: The main window where the user inputs the YouTube URL.*
+  (![Captura de tela de 2025-02-15 03-16-26](https://github.com/user-attachments/assets/5dd91684-0c81-4793-84d1-bcfce5021da1)
+
 
 2. **Enter the Video URL**:  
    Paste the YouTube video URL in the input box.
 
-   ![URL Input](![Captura de tela de 2025-02-15 03-20-00](https://github.com/user-attachments/assets/a7122a08-9cd2-4345-b289-05fba2f0a2d6)
-)  
-   *Description: The URL input box where you paste the YouTube video link.*
+   (![Captura de tela de 2025-02-15 03-20-00](https://github.com/user-attachments/assets/a7122a08-9cd2-4345-b289-05fba2f0a2d6)
+
 
 3. **Choose a Download Directory**:  
    Click the "Choose Directory" button to select where you want to save the downloaded file.
 
-   ![Directory Selection](![Captura de tela de 2025-02-15 03-20-32](https://github.com/user-attachments/assets/34c9754f-2519-4bd8-8ba0-1ad233e56096)
-)  
-   *Description: The window where you select the download directory.*
+   (![Captura de tela de 2025-02-15 03-20-32](https://github.com/user-attachments/assets/34c9754f-2519-4bd8-8ba0-1ad233e56096)
+   
 
 4. **Download Video or Audio**:  
    Click on "Download Video" or "Download Audio" to start the download.
 
-   ![Download In Progress](![Captura de tela de 2025-02-15 03-21-33](https://github.com/user-attachments/assets/9ced673e-7222-4330-943d-e44de9e28f01)
-)  
-   *Description: The window shows a message when the download starts.*
+   (![Captura de tela de 2025-02-15 03-21-33](https://github.com/user-attachments/assets/9ced673e-7222-4330-943d-e44de9e28f01)
 
 ## How to Run
 

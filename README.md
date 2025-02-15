@@ -5,11 +5,6 @@
 
 This is a Python application that allows you to easily download videos and audio from YouTube. The program uses `yt-dlp` for downloading the content and `customtkinter` for the graphical user interface (GUI).
 
-## Features
-- **Download Video**: Download videos from YouTube.
-- **Download Audio**: Download audio from YouTube.
-- **Choose Download Directory**: Select a custom directory to save your downloads.
-
 ## Requirements
 Before running the application, you will need to install the required dependencies:
 
